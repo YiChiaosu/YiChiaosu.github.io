@@ -56,6 +56,9 @@ h4 a,
 h5 a {
   font-style: normal;
 }
+p {
+  font-size: 1.2em;
+}
 h1,
 h2,
 h3,
