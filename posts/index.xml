@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The fuck go language</title>
-    <link>http://yichiaosu.github.io/</link>
-    <description>Recent content on The fuck go language</description>
+    <title>Posts on The fuck go language</title>
+    <link>http://yichiaosu.github.io/posts/</link>
+    <description>Recent content in Posts on The fuck go language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Sep 2017 22:17:04 +0800</lastBuildDate>
     
-	<atom:link href="http://yichiaosu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yichiaosu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
